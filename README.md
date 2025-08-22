@@ -59,7 +59,7 @@ asyncio.run(main())
 ## 📘 Примеры использования
 
 📂 Файл: `examples/basic_usage.py`
-# Получаем информацию о профиле
+### Получаем информацию о профиле
 ```python
 import asyncio
 from nsgifts import NSGiftsClient, APIError
@@ -87,7 +87,7 @@ if __name__ == "__main__":
 ```
 
 📂 Файл: `examples/example2.py`
-# Получаем баланс
+### Получаем баланс
 ```python
 import asyncio
 from nsgifts import NSGiftsClient, APIAuthenticationError
